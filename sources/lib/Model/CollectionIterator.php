@@ -26,7 +26,7 @@ use PommProject\ModelManager\Model\FlexibleEntity\FlexibleEntityInterface;
  * @author    Grégoire HUBERT <hubert.greg@gmail.com>
  * @license   MIT/X11 {@link http://opensource.org/licenses/mit-license.php}
  */
-class CollectionIterator extends ResultIterator
+class CollectionIterator extends ResultIterator implements CollectionIteratorInterface
 {
     /**
      * @var Session
