@@ -1,3 +1,7 @@
+== VERSION 2.0.2
+
+ * Added an interface for CollectionIterator class
+
 == VERSION 2.0.1
 
  * Switch to 2.0 stable branch
